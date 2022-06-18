@@ -35,12 +35,14 @@ feature:
     icon_pack: skills
     name: SQL
     
-  - icon: chart-line
+  - name: Statistics
+    icon: chart-line
     icon_pack: fas
-    name: Statistics
+    
 # description: 100%
     
-  - icon: camera-retro
+  - name: Photography
+    icon: camera-retro
     icon_pack: fas
     name: Photography
 #    description: 10%
