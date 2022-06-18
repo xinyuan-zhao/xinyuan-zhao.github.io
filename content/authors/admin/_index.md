@@ -78,3 +78,4 @@ able to quickly adapt to the new environment, be good at execution and have a te
 work.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
