@@ -70,8 +70,10 @@ email: 'xinyuan7@ualberta.ca'
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am friendly, sincere, meticulous, dedicated, have a strong sense of responsibility, learning ability and adaptability, like to
+talk with others, love life. The most prominent character label is seriousness, with the characteristics of calm and
+introverted, good at thinking and research. Have good communication and coordination skills, be good at responding, be
+able to quickly adapt to the new environment, be good at execution and have a team spirit, and can withstand high-intensity
+work.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
