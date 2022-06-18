@@ -32,12 +32,12 @@ feature:
     name: SQL
 
   - icon: java-brands
-    icon_pack: skills
-    name: SQL
+#    icon_pack: skills
+#    name: SQL
     
   - name: Statistics
-    icon: chart-line
-    icon_pack: fas
+#    icon: chart-line
+#    icon_pack: fas
     
 # description: 100%
     
