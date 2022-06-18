@@ -23,14 +23,14 @@ feature:
 
   - icon: 'java-brands'
     icon_pack: skills
-    name: Python
+ #   name: Python
 
   - icon: java-brands
     icon_pack: skills
     name: Java
 
-  - icon: java-brands
-    icon_pack: skills
+  - icon: `java-brands`
+    icon_pack: `assets/media/icons/skills`
     name: SQL
 
   - icon: java-brands
@@ -39,8 +39,7 @@ feature:
     
   - name: Statistics
 #    icon: chart-line
-#    icon_pack: fas
-    
+#    icon_pack: fas  
 # description: 100%
     
   - name: Photography
