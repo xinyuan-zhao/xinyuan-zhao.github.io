@@ -20,9 +20,11 @@ feature:
     icon_pack: skills
     name: 'Java'
 #    description: "90%"
+
   - icon: 'java-brands'
     icon_pack: skills
     name: Python
+
   - icon: java-brands
     icon_pack: skills
     name: Java
@@ -42,9 +44,8 @@ feature:
 # description: 100%
     
   - name: Photography
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+#    icon: camera-retro
+#    icon_pack: fas
 #    description: 10%
 
 
