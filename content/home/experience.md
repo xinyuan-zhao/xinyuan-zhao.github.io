@@ -23,18 +23,24 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Business analyst (Internship)
-    company: Majorel China
+    company: Majorel  China
     company_url: 'https://majorel.cn/'
     company_logo: org-gc
     location: Shanghai(China)
     date_start: '2021-05-01'
     date_end: '2021-08-31'
     description: |2-
-        Responsibilities include:
+        What I do in this company is data analysis. For example, analyze the sales of some fast-selling brands, and analyze the reasons for the increase or decrease in sales. My main responsibility is to write weekly reports and monthly summaries.
+
+        During the internship, sql, excel and ppt are mainly used. I learned about the application of sql and the application of data, which are different from the daily school learning.
+
+        Undefined definitions of a data can have a large impact on the results. Misattribution can also occur. In the process of continuous optimization of the new definition, it is beneficial for the company to increase sales, optimize production structure and marketing strategy. It also strengthens and consolidates the knowledge that I have learned on a daily basis.
+
+      Responsibilities include:
         
         * Analysing
         * Modelling
-        * Deploying
+        
 
   - title: Professor of Semiconductor Physics
     company: University X
