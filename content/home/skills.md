@@ -16,33 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: java-brands
-    icon_pack: skills
-    name: 'Java'
-#    description: "90%"
-
-  - icon: 'java-brands'
-    icon_pack: skills
- #   name: Python
-
-  - icon: java-brands
-    icon_pack: skills
-    name: Java
-
-  - icon: `java-brands`
-    icon_pack: `assets/media/icons/skills`
-    name: SQL
-
-  - icon: java-brands
-#    icon_pack: skills
-#    name: SQL
-    
+  - name: Java
+  - name: SQL
+  - name: Python
+  - name: C
   - name: Statistics
-#    icon: chart-line
-#    icon_pack: fas  
-# description: 100%
+
+#   - icon: java-brands
+#     icon_pack: skills
+#     name: 'Java'
+# #    description: "90%"
+
+#   - icon: 'java-brands'
+#     icon_pack: skills
+#  #   name: Python
+
+#   - icon: java-brands
+#     icon_pack: skills
+#     name: Java
+
+#   - icon: `java-brands`
+#     icon_pack: `assets/media/icons/skills`
+#     name: SQL
+
+#   - icon: java-brands
+# #    icon_pack: skills
+# #    name: SQL
     
-  - name: Photography
+#   - name: Statistics
+# #    icon: chart-line
+# #    icon_pack: fas  
+# # description: 100%
+    
+#   - name: Photography
 #    icon: camera-retro
 #    icon_pack: fas
 #    description: 10%
