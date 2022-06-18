@@ -17,14 +17,14 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: java-brands
-    icon_pack: assets/media/icons/
-    name: Java
+    icon_pack: 'assets/media/icons/'
+    name: 'Java'
 #    description: "90%"
   - icon: 'java-brands'
     icon_pack: 'assets/media/icons/'
     name: Python
-  - icon: java-brands
-    icon_pack: assets/media/icons/
+  - icon: 'java-brands'
+    icon_pack: 'assets/media/icons/'
     name: Java
 
   - icon: r-project
