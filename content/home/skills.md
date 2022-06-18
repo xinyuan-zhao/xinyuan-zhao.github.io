@@ -17,20 +17,23 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - icon: java-brands
-    icon_pack: 'assets/media/icons/'
+    icon_pack: skills
     name: 'Java'
 #    description: "90%"
   - icon: 'java-brands'
-    icon_pack: 'assets/media/icons/'
+    icon_pack: skills
     name: Python
   - icon: java-brands
-    icon_pack: 'assets/media/icons/'
+    icon_pack: skills
     name: Java
 
-  - icon: r-project
-    icon_pack: fab
-    name: R
-# description: 90%
+  - icon: java-brands
+    icon_pack: skills
+    name: SQL
+
+  - icon: java-brands
+    icon_pack: skills
+    name: SQL
     
   - icon: chart-line
     icon_pack: fas
@@ -41,6 +44,12 @@ feature:
     icon_pack: fas
     name: Photography
 #    description: 10%
+
+
+#  - icon: r-project
+#    icon_pack: fab
+#    name: R
+# description: 90%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
