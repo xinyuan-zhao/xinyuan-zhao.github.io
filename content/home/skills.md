@@ -23,7 +23,7 @@ feature:
   - icon: 'java-brands'
     icon_pack: 'assets/media/icons/'
     name: Python
-  - icon: 'java-brands'
+  - icon: java-brands
     icon_pack: 'assets/media/icons/'
     name: Java
 
@@ -37,10 +37,10 @@ feature:
     name: Statistics
 # description: 100%
     
-  - description: 10%
-    icon: camera-retro
+  - icon: camera-retro
     icon_pack: fas
     name: Photography
+#    description: 10%
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
