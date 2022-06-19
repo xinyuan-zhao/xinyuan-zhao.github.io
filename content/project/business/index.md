@@ -1,4 +1,4 @@
----
+<!-- ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: Business Plan for Caresworth
@@ -38,4 +38,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
----
+--- -->
