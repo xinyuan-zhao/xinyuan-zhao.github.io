@@ -10,7 +10,7 @@ summary:
   * Firebase
 
 tags:
-  - Demo
+  - Business Project
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -21,10 +21,11 @@ image:
   focal_point: Smart
 
 links:
-  - name: GitHub
-    url: https://github.com/CMPUT301F21T08/HabitTracker/
+  - name: Business Plan
+    url: 
     #   icon: twitter
     # icon_pack: fab
+    {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
 url_code: ''
 url_pdf: ''
 url_slides: ''
