@@ -30,7 +30,7 @@ content:
     - name: Android App
       tag: Android App
     - name: Business Project
-      tag: Demo
+      tag: Business Project
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
