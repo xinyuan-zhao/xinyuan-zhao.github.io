@@ -19,6 +19,7 @@ bio: My research interests include distributed mobile computing and programmable
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Software Development
   - Information Retrieval
 
 # Education to show in About widget

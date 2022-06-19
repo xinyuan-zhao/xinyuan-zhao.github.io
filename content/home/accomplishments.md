@@ -1,6 +1,8 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+
+# I changed this to the sum all courses I took.
 widget: accomplishments
 
 # This file represents a page section.
