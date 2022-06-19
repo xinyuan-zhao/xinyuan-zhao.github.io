@@ -72,6 +72,8 @@ email: 'xinyuan7@ualberta.ca'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Hey! I'm Xinyuan and you can also call me Skyla.
+Welcome to My Portfolio!  {{< icon name="face-smile-neam" pack="fas" >}}
 
 I am friendly, sincere, meticulous, dedicated, have a strong sense of responsibility, learning ability and adaptability, like to
 talk with others, love life. The most prominent character label is seriousness, with the characteristics of calm and
@@ -79,8 +81,8 @@ introverted, good at thinking and research. Have good communication and coordina
 able to quickly adapt to the new environment, be good at execution and have a team spirit, and can withstand high-intensity
 work.
 
-{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
+{{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
 
-{{< icon name="star" pack="fas" >}} {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}.
+{{< icon name="star" pack="fas" >}} {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}. -->
