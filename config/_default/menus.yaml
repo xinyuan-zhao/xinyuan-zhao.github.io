@@ -13,12 +13,13 @@ main:
   - name: Experiences
     url: '#experience'
     weight: 30
-  - name: Courses
-    url: '#accomplishments'
-    weight: 40
   - name: Projects
     url: '#projects'
     weight: 50
+  - name: Courses
+    url: '#accomplishments'
+    weight: 40
+
   - name: Contact
     url: '#contact'
     weight: 60
