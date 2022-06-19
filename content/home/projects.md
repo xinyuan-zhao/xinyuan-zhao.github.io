@@ -29,7 +29,7 @@ content:
       tag: '*'
     - name: Android App
       tag: Android App
-    - name: Other
+    - name: Business Project
       tag: Demo
 
 design:
