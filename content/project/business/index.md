@@ -40,6 +40,9 @@ url_video: 'https://youtu.be/MChhQOfhbA8'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
+
 * Java   
 * Android Studio    
 * Firebase
@@ -58,37 +61,3 @@ By the end of this sprint, the team did finish most of the required UI pages as 
 In this sprint, we focus on realizing the actual functions of the three sections of the program within the sections themselves. We do not consider the interaction between functions in this section.
 
 Summary:
-By the end of this sprint, we managed to realize most functions for log-in, habits and habit event as separated parts. We will connect these parts together in the third iteration. All habits and habit events are currently stored locally. Some problems left unsolved in this iteration is:
-
-Enable the user to select multiple dates in a month for a habit to occur is still not possible due to the need of customizing the calendar view.
-We realized that we may not have time to implement the progress bar for each habit in this part. So we decided to complete this requirement after the halfway check-point.
-
-**Third sprint: Nov.1 - Nov.5**
-
-In this sprint, we focus on the interaction between the three functions, and connect them to a whole working project. We would also implement firebase functionalities.
-
-**Fourth Sprint: 11.8 - 11.18**
-
-We focus on finishing all remaining requirements (functionalities) in this sprint, that includes all the updated requirements and functions relating to the following area. We also added additional "Remember me" and "Forgot password" functionalities in this sprint.
-
-Summary:
-
-All team members didn't finish the tasks as planned due to the reading week and other exams. So we decided to continue finishing all these functionalities in the fifth sprint.
-
-**Fifth Sprint: 11.18 - 11.23**
-
-Continue to finish all functionalities, and start writing tests if possible.
-
-Summary:
-
-We managed to cover all functionalities by the end of this sprint. Some functions still needs correction. We also planned the testing strategies for this app and started writing tests.
-
-**Sixth Sprint: 11.24 - 11.29**
-
-This is our final sprint. We focused on writing tests and refining the app, such as improving the UI design, testing the app and solving existing bugs, etc. We also worked on documentations in this sprint.
-
-Summary:
-
-By the end of this sprint, we prepared this app to be ready for final submission.
-
-
