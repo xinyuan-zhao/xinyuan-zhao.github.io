@@ -109,3 +109,7 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+  
+marketing:
+  analytics:
+    google_analytics: 'G-4KCYKS6X5D'
