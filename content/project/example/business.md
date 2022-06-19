@@ -1,4 +1,3 @@
-
 ---
 title: Business Plan for Caresworth
 summary: 
