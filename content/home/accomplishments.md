@@ -32,7 +32,7 @@ item:
     organization_url: https://apps.ualberta.ca/catalogue/course/cmput
     title: CMPUT 174 - Introduction to the Foundations of Computation I
     url: https://apps.ualberta.ca/catalogue/course/cmput/174
-    logo: ua
+
 
   - certificate_url: 
     date_end: '2020-01-01'
@@ -132,7 +132,7 @@ item:
     organization_url: https://apps.ualberta.ca/catalogue/course/cmput/
     title: CMPUT 455 - Search, Knowledge and Simulation
     url: https://apps.ualberta.ca/catalogue/course/cmput/455
-    logo: ua
+
     
 
 design:
