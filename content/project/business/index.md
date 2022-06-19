@@ -10,7 +10,7 @@ summary:
   * Firebase
 
 tags:
-  - Business Project
+  - Business
 
 date: '2016-04-27T00:00:00Z'
 
