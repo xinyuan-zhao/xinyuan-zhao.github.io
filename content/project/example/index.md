@@ -1,6 +1,9 @@
 ---
 title: Habit Tracker App
 summary: The habit tracker app can let users to record their habits and help them keep track of these habits.
+
+Java   Android Studio    Firebase
+
 tags:
   - Android App
 date: '2016-04-27T00:00:00Z'
@@ -9,7 +12,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Sample pages from app
   focal_point: Smart
 
 links:
@@ -29,6 +32,7 @@ url_video: 'https://youtu.be/MChhQOfhbA8'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+**Java   Android Studio    Firebase** 
 
 This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
 
