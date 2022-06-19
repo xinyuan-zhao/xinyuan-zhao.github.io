@@ -1,13 +1,9 @@
 ---
 title: Business Plan for Caresworth
 summary: 
-  A Business Plan.  
+  This is a business project for CaresWorth which is designed to provide pet boarding and exercising services. We come up with this business plan based on data analysis and research on the industry.
   
-  * Java    
-
-  * Android Studio    
-
-  * Firebase
+  * Data Analysis
 
 tags:
   - Business
@@ -44,8 +40,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
+
 
 * Java   
 * Android Studio    
