@@ -51,7 +51,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Xinyuan_skyla
-  - icon: wechat
+  - icon: weixin
     icon_pack: fab
     link: https://twitter.com/Xinyuan_skyla  
 
