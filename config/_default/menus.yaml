@@ -22,7 +22,7 @@ main:
     url: '#accomplishments'
     weight: 40
 
-  - name: Recent Learning
+  - name: Recent Study
     url: '#posts'
     weight: 30
 
