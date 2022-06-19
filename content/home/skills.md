@@ -19,8 +19,8 @@ feature:
   - name: Java
   - name: SQL
   - name: Python
-  - name: C
-  - name: Statistics
+  - name: C#
+  - name: MongoDB
 
 #   - icon: java-brands
 #     icon_pack: skills
