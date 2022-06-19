@@ -16,10 +16,14 @@ main:
   - name: Projects
     url: '#projects'
     weight: 50
+
   - name: Courses
     url: '#accomplishments'
     weight: 40
 
+  - name: Recent Learning
+    url: '#post'
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 60
