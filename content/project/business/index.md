@@ -27,10 +27,10 @@ links:
     #   icon: twitter
     # icon_pack: fab
   - name: Research
-    url: uploads/Business_plan_for_research.pdf
+    url: uploads/Business_plan_research.pdf
 
   - name: PPT
-    url: uploads/business_presentation.pdf
+    url: uploads/ppt_bus.pdf
 
 url_code: ''
 url_pdf: ''
