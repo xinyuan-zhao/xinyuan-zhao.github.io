@@ -26,7 +26,8 @@ links:
     url: 
     #   icon: twitter
     # icon_pack: fab
-    {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}transcript{{< /staticref >}}.
+
+
 url_code: ''
 url_pdf: ''
 url_slides: ''
