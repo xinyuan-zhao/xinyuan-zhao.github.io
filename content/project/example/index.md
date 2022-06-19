@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Habit Tracker App
+summary: The habit tracker app can let users to record their habits and help them keep track of these habits.
 tags:
   - Android App
 date: '2016-04-27T00:00:00Z'
@@ -30,12 +30,42 @@ url_video: ''
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+<strong>First Sprint: Oct.18 - Oct.24</strong>
+In this sprint, we focus on the structural implementation of the program. We divided the program into three function sections: login (user profile related), habit, and habit event. We only build the UI part for these three sections and realize the interaction between pages in this sprint. Pages related to "following" is not considered in this sprint.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Summary:
+By the end of this sprint, the team did finish most of the required UI pages as planned. Two pages left undone is the main page (to-do list page) and the profile page. We set to finish these pages in the second iteration.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+<strong>Second sprint: Oct.25 - Oct.31</strong>
+In this sprint, we focus on realizing the actual functions of the three sections of the program within the sections themselves. We do not consider the interaction between functions in this section.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Summary:
+By the end of this sprint, we managed to realize most functions for log-in, habits and habit event as separated parts. We will connect these parts together in the third iteration. All habits and habit events are currently stored locally. Some problems left unsolved in this iteration is:
+
+Enable the user to select multiple dates in a month for a habit to occur is still not possible due to the need of customizing the calendar view.
+We realized that we may not have time to implement the progress bar for each habit in this part. So we decided to complete this requirement after the halfway check-point.
+<strong>Third sprint: Nov.1 - Nov.5</strong>
+In this sprint, we focus on the interaction between the three functions, and connect them to a whole working project. We would also implement firebase functionalities.
+
+<strong>Fourth Sprint: 11.8 - 11.18</strong>
+We focus on finishing all remaining requirements (functionalities) in this sprint, that includes all the updated requirements and functions relating to the following area. We also added additional "Remember me" and "Forgot password" functionalities in this sprint.
+
+Summary:
+
+All team members didn't finish the tasks as planned due to the reading week and other exams. So we decided to continue finishing all these functionalities in the fifth sprint.
+
+<strong>Fifth Sprint: 11.18 - 11.23</strong>
+Continue to finish all functionalities, and start writing tests if possible.
+
+Summary:
+
+We managed to cover all functionalities by the end of this sprint. Some functions still needs correction. We also planned the testing strategies for this app and started writing tests.
+
+<strong>Sixth Sprint: 11.24 - 11.29</strong>
+This is our final sprint. We focused on writing tests and refining the app, such as improving the UI design, testing the app and solving existing bugs, etc. We also worked on documentations in this sprint.
+
+Summary:
+
+By the end of this sprint, we prepared this app to be ready for final submission.
