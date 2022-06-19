@@ -3,9 +3,7 @@ title: Habit Tracker App
 summary: 
   The habit tracker app can let users to record their habits and help them keep track of these habits. 
   
-  * Java   
-  * Android Studio    
-  * Firebase
+  * Java     Android Studio      Firebase
 
 tags:
   - Android App
