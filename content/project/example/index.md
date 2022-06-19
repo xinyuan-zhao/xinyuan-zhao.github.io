@@ -3,8 +3,10 @@ title: Habit Tracker App
 summary: 
   The habit tracker app can let users to record their habits and help them keep track of these habits. 
   
-  * Java     
-  * Android Studio      
+  * Java    
+
+  * Android Studio    
+        
   * Firebase
 
 tags:
@@ -85,6 +87,7 @@ This is our final sprint. We focused on writing tests and refining the app, such
 Summary:
 
 By the end of this sprint, we prepared this app to be ready for final submission.
+
 
 ---
 title: Business Plan for Caresworth
