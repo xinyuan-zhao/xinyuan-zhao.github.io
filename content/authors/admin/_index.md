@@ -73,7 +73,8 @@ email: 'xinyuan7@ualberta.ca'
 highlight_name: true
 ---
 Hey! I'm Xinyuan and you can also call me Skyla.
-Welcome to My Portfolio!  {{< icon name="face-smile-neam" pack="fas" >}}
+
+Welcome to My Portfolio!  {{< icon name="face-smile-beam" pack="fas" >}}
 
 I am friendly, sincere, meticulous, dedicated, have a strong sense of responsibility, learning ability and adaptability, like to
 talk with others, love life. The most prominent character label is seriousness, with the characteristics of calm and
