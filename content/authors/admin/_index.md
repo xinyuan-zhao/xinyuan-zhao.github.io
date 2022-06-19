@@ -53,7 +53,7 @@ social:
     link: https://twitter.com/Xinyuan_skyla
   - icon: weixin
     icon_pack: fab
-    link: weixinid 
+    link: uploads/weixinid.jpeg
 
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
