@@ -76,7 +76,7 @@ introverted, good at thinking and research. Have good communication and coordina
 able to quickly adapt to the new environment, be good at execution and have a team spirit, and can withstand high-intensity
 work.
 
-{{< icon name="fa-file" pack="fas" >}} {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
+{{< icon name="eyes" pack="fas" >}} {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}.
