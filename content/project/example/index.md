@@ -20,14 +20,14 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://youtu.be/MChhQOfhbA8'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
