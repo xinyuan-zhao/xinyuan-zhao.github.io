@@ -11,6 +11,7 @@ summary:
 
 tags:
   - Business Project
+
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -21,7 +22,7 @@ image:
   focal_point: Smart
 
 links:
-  - name: Business Plan
+  - name: Business
     url: 
     #   icon: twitter
     # icon_pack: fab
