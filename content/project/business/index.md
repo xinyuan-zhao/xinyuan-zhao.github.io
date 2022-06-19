@@ -26,20 +26,16 @@ links:
     url: uploads/business_plan_for_caresworth.pdf
     #   icon: twitter
     # icon_pack: fab
-  - name: Business Plan
-    url: uploads/business_plan_for_caresworth.pdf
-
   - name: Research
     url: uploads/Business_plan_for_research.pdf
-  - name: 
-    url: uploads/Business_plan_for_research.pdf
+
   - name: PPT
     url: uploads/business_presentation.pdf
 
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://youtu.be/MChhQOfhbA8'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
