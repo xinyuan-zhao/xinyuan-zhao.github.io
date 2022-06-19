@@ -13,6 +13,7 @@ main:
   - name: Experiences
     url: '#experience'
     weight: 30
+
   - name: Projects
     url: '#projects'
     weight: 50
@@ -22,8 +23,9 @@ main:
     weight: 40
 
   - name: Recent Learning
-    url: '#post'
+    url: '#posts'
     weight: 30
+
   - name: Contact
     url: '#contact'
     weight: 60
