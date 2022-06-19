@@ -41,22 +41,31 @@ url_video: ''
 # slides: example
 ---
 
+    CaresWorth is a private corporation that will operate in the pet grooming
+and boarding industry in Edmonton, Alberta. Over the 5 years to 2024 this industry
+is expected to grow at an annualized rate of 1.3%, increasing its contribution to the
+overall Canadian economy at an annualized rate of 2.8%. Industry revenue is also
+predicted to grow at an annualized rate of 4.2%. These factors present us with an
+opportunity to enter the market and earn from the favorable conditions of the
+industry. However due to the low barriers to entry in the industry, entering this
+industry may be risky as it poses a high threat of competition which may
+jeopardize our survival. Thus in order to compete effectively we aim to be the best
+at providing our consumers with quality services at theirconvenience.
 
-* Java   
-* Android Studio    
-* Firebase
+    CaresWorth aims to target the working individuals of the urban area
+Windermere, aged between 30 to 49 years. Based on our research we learn that this
+age group is the highest revenue generator of this industry hence targeting this
+audience is profitable for our business especially in the long-term. As there is no
+pet store providing services as ours in this neighbourhood, entering this market
+enables us to fill the market gap and provide these residents with the services they
+highly need. Due to the busy lives of our target audience it is difficult for them to
+take adequate care of their pet child, instead by entering this market we are able to
+solve this problem by providing their pets with quality and effective exercises and
+massages.
 
-This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
-
-**First Sprint: Oct.18 - Oct.24**
-
-In this sprint, we focus on the structural implementation of the program. We divided the program into three function sections: login (user profile related), habit, and habit event. We only build the UI part for these three sections and realize the interaction between pages in this sprint. Pages related to "following" is not considered in this sprint.
-
-Summary:
-By the end of this sprint, the team did finish most of the required UI pages as planned. Two pages left undone is the main page (to-do list page) and the profile page. We set to finish these pages in the second iteration.
-
-**Second sprint: Oct.25 - Oct.31**
-
-In this sprint, we focus on realizing the actual functions of the three sections of the program within the sections themselves. We do not consider the interaction between functions in this section.
-
-Summary:
+    Operating in this industry requires a large capital investment as ourfacilities
+need to abide by the requirements set by the board of kennel operators. Moreover,
+being a service company our success highly depends on the quality and skills of
+our staff. Thus hiring skilled and experienced employees is important, but this in
+turn raises our costs as high wages need to be paid. Due to these factors our ability
+to generate profits and break-even at an earlier stage isreduced.
