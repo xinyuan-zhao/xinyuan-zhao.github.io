@@ -21,6 +21,9 @@ feature:
   - name: Python
   - name: C#
   - name: MongoDB
+  - name: Linux
+  - name: Git
+
 
 #   - icon: java-brands
 #     icon_pack: skills
