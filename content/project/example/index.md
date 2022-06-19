@@ -2,8 +2,9 @@
 title: Habit Tracker App
 summary: 
   The habit tracker app can let users to record their habits and help them keep track of these habits. 
-  
-  Java   Android Studio    Firebase
+  * Java   
+  * Android Studio    
+  * Firebase
 
 tags:
   - Android App
@@ -33,7 +34,9 @@ url_video: 'https://youtu.be/MChhQOfhbA8'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-**Java   Android Studio    Firebase** 
+* Java   
+* Android Studio    
+* Firebase
 
 This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
 
@@ -81,3 +84,44 @@ This is our final sprint. We focused on writing tests and refining the app, such
 Summary:
 
 By the end of this sprint, we prepared this app to be ready for final submission.
+
+
+
+---
+title: Habit Tracker App
+summary: 
+  A Business Plan. 
+  
+  
+
+tags:
+  - Android App
+date: '2016-04-27T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: Sample pages from app
+  focal_point: Smart
+
+links:
+  - name: GitHub
+    url: https://github.com/CMPUT301F21T08/HabitTracker/
+    #   icon: twitter
+    # icon_pack: fab
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: 'https://youtu.be/MChhQOfhbA8'
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
+**Java   Android Studio    Firebase** 
+
+This is t
