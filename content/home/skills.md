@@ -19,6 +19,7 @@ feature:
   - name: Java
   - name: SQL
   - name: Python
+  - name: MATLAB
   - name: C#
   - name: MongoDB
   - name: Linux
