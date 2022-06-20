@@ -85,6 +85,5 @@ work.
 
 {{< icon name="file-lines" pack="fas" >}} {{< staticref "uploads/xinyuan_resume.pdf" "newtab" >}}Resumé{{< /staticref >}}
 
-{{< icon name="star" pack="fas" >}} {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/xinyuan_transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}. -->
