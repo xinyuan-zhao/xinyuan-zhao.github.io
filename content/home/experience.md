@@ -22,10 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Intern Data Analyst
+  - title: Intern Data Analyst  (Internship)
     company: Yanc Data Consulting
     company_url: 'http://yanc-consulting.com/contact/'
-    company_logo: org-gc2
+    company_logo: org-yac
     location: Toronto(Canada) · Hybrid
     date_start: '2022-10-01'
     date_end: '2022-12-31'
@@ -43,10 +43,10 @@ experience:
         * SQL
         * Modelling
 
-  - title: Data Scientist
+  - title: Data Scientist  (Internship)
     company: Global AI
     company_url: 'https://globalai.co/'
-    company_logo: org-gc1
+    company_logo: org-yac
     location: New York(United States)
     date_start: '2022-07-01'
     date_end: '2022-09-30'
