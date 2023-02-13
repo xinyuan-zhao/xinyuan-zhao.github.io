@@ -28,7 +28,7 @@ content:
   email: xinyuan7@ualberta.ca
   phone: 780 885 0699
   address:
-    # street: 111 st NW
+    street: 11 Brunel Ct
     city: Toronto
     region: ON
     postcode: 'M5V 3Y3'
