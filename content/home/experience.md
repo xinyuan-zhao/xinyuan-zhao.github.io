@@ -25,7 +25,7 @@ experience:
   - title: Intern Data Analyst
     company: Yanc Data Consulting
     company_url: 'http://yanc-consulting.com/contact/'
-    company_logo: org-gc
+    company_logo: org-gc2
     location: Toronto(Canada) · Hybrid
     date_start: '2022-10-01'
     date_end: '2022-12-31'
@@ -46,7 +46,7 @@ experience:
   - title: Data Scientist
     company: Global AI
     company_url: 'https://globalai.co/'
-    company_logo: org-gc
+    company_logo: org-gc1
     location: New York(United States)
     date_start: '2022-07-01'
     date_end: '2022-09-30'
