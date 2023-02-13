@@ -28,10 +28,10 @@ content:
   email: xinyuan7@ualberta.ca
   phone: 780 885 0699
   address:
-    street: 111 st NW
-    city: Edmonton
-    region: AB
-    postcode: 'T5K 1J7'
+    # street: 111 st NW
+    city: Toronto
+    region: ON
+    postcode: 'M5V 3Y3'
     country: Canada
     country_code: CA
 #  coordinates:
