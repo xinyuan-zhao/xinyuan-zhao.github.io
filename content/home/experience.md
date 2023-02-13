@@ -22,26 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  # - title: Intern Data Analyst
-  #   company: Yanc Data Consulting
-  #   company_url: 'http://yanc-consulting.com/contact/'
-  #   company_logo: org-gc
-  #   location: Toronto(Canada) · Hybrid
-  #   date_start: '2022-10-01'
-  #   date_end: '2022-12-31'
-  #   description: |2-
-  #       What I do in this company is data analysis. For example, analyze the sales of some fast-selling brands, and analyze the reasons for the increase or decrease in sales. My main responsibility is to write weekly reports and monthly summaries.
+  - title: Intern Data Analyst
+    company: Yanc Data Consulting
+    company_url: 'http://yanc-consulting.com/contact/'
+    company_logo: org-gc
+    location: Toronto(Canada) · Hybrid
+    date_start: '2022-10-01'
+    date_end: '2022-12-31'
+    description: |2-
+        What I do in this company is data analysis. For example, analyze the sales of some fast-selling brands, and analyze the reasons for the increase or decrease in sales. My main responsibility is to write weekly reports and monthly summaries.
 
-  #       During the internship, sql, excel and ppt are mainly used. I learned about the application of sql and the application of data, which are different from the daily school learning.
+        During the internship, sql, excel and ppt are mainly used. I learned about the application of sql and the application of data, which are different from the daily school learning.
 
-  #       Undefined definitions of a data can have a large impact on the results. Misattribution can also occur. In the process of continuous optimization of the new definition, it is beneficial for the company to increase sales, optimize production structure and marketing strategy. It also strengthens and consolidates the knowledge that I have learned on a daily basis.
+        Undefined definitions of a data can have a large impact on the results. Misattribution can also occur. In the process of continuous optimization of the new definition, it is beneficial for the company to increase sales, optimize production structure and marketing strategy. It also strengthens and consolidates the knowledge that I have learned on a daily basis.
 
-  #     Responsibilities include:
+      Responsibilities include:
         
-  #       * Decision Trees
-  #       * Random Forest
-  #       * SQL
-  #       * Modelling
+        * Decision Trees
+        * Random Forest
+        * SQL
+        * Modelling
 
   - title: Data Scientist
     company: Global AI
@@ -49,7 +49,7 @@ experience:
     company_logo: org-gc
     location: New York(United States)
     date_start: '2022-07-01'
-    date_end: '2022-09-31'
+    date_end: '2022-09-30'
     description: |2-
         What I do in this company is data analysis. For example, analyze the sales of some fast-selling brands, and analyze the reasons for the increase or decrease in sales. My main responsibility is to write weekly reports and monthly summaries.
 
