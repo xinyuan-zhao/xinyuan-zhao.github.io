@@ -16,8 +16,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+ - name: SQL
   - name: Java
-  - name: SQL
+  - name: Machine Learning 
   - name: Python
   - name: MATLAB
   - name: C#
