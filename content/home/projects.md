@@ -32,7 +32,7 @@ content:
     - name: Business Project
       tag: Business
     - name: Web
-      tag: Web App
+      tag: Web
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
