@@ -3,7 +3,9 @@ title: uLearnify App Development
 summary: 
   uLearnify is an Online Remedial Literacy Tutorial Program that will allow teachers to create assessments, enter students answers, and track other aspects of their performace such as behavioural indicators. Teachers can then associate test answers and other indicators with skills.
   
-  * Data Analysis
+  * Typescript
+  
+  * React
 
 tags:
   - Web
@@ -14,7 +16,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Sample pages from app
+  caption: Sample pages from project
   focal_point: Smart
 
 links:
@@ -34,9 +36,9 @@ url_video: 'https://cmput401.ca/projects/200d0f09-6fd2-4c61-a7c3-022b8bf45b95'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-* Java   
-* Android Studio    
-* Firebase
+* Typescript
+* React  
+
 
 This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
 
