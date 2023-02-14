@@ -67,8 +67,6 @@ date_format: Jan 2006
 #         * Python
 #         * Modelling
 #         * Machine Learning
-
-
   - title: Business analyst (Internship)
     company: Majorel  China
     company_url: 'https://majorel.cn/'
