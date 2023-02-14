@@ -77,7 +77,6 @@ date_format: Jan 2006
     date_start: '2021-05-01'
     date_end: '2021-08-31'
     description: |2-
-
         What I do in this company is data analysis. For example, analyze the sales of some fast-selling brands, and analyze the reasons for the increase or decrease in sales. My main responsibility is to write weekly reports and monthly summaries.
 
         During the internship, sql, excel and ppt are mainly used. I learned about the application of sql and the application of data, which are different from the daily school learning.
