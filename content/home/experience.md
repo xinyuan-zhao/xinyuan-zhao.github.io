@@ -16,6 +16,7 @@ subtitle:
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+experience:
   - title: Business analyst (Internship)
     company: Majorel  China
     company_url: 'https://majorel.cn/'
