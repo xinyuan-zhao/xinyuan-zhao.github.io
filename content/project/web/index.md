@@ -41,6 +41,7 @@ url_video: 'https://cmput401.ca/projects/200d0f09-6fd2-4c61-a7c3-022b8bf45b95'
 
 
 # Executive Summary
+
 Many learning difficulties are still not well-understood by vast majority of teachers and school boards. This leads to special needs children often recieving a lack of attention and services in traditional schooling systems.
 
 uLearnify is an Online Remedial Literacy Tutorial Program that will allow teachers to create assessments, enter students answers, and track other aspects of their performace such as behavioural indicators. Teachers can then associate test answers and other indicators with skills.
@@ -48,8 +49,13 @@ uLearnify is an Online Remedial Literacy Tutorial Program that will allow teache
 This tool will allow for properly graphing literacy learning patterns for further research. This will lead to a better understanding of learning difficulties which in turn will help teachers develop a better understanding of how to cater towards special needs children.
 
 # Project Glossary
-** Test **- A set of questions defined by a teacher.
-A**ssessments** - An instance of a test containing the answers of a student.
+
+**Test** - A set of questions defined by a teacher.
+
+**Assessments** - An instance of a test containing the answers of a student.
+
 **Answer** - A specific answer of a student for question in an assessment.
-**Skill **- A skill defined by a teacher, usually associated with certain answers on assesments.
+
+**Skill** - A skill defined by a teacher, usually associated with certain answers on assesments.
+
 **Behavioural Indicator** - Aspects outside of assessments defined by teachers that can be linked to skills.
