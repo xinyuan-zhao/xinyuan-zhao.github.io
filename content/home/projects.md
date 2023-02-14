@@ -31,6 +31,8 @@ content:
       tag: Android App
     - name: Business Project
       tag: Business
+    - name: Web
+      tag: Web App
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
