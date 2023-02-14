@@ -48,8 +48,8 @@ uLearnify is an Online Remedial Literacy Tutorial Program that will allow teache
 This tool will allow for properly graphing literacy learning patterns for further research. This will lead to a better understanding of learning difficulties which in turn will help teachers develop a better understanding of how to cater towards special needs children.
 
 # Project Glossary
-### Test - A set of questions defined by a teacher.
-### Assessments - An instance of a test containing the answers of a student.
-### Answer - A specific answer of a student for question in an assessment.
-### Skill - A skill defined by a teacher, usually associated with certain answers on assesments.
-### Behavioural Indicator - Aspects outside of assessments defined by teachers that can be linked to skills.
+** Test **- A set of questions defined by a teacher.
+A**ssessments** - An instance of a test containing the answers of a student.
+**Answer** - A specific answer of a student for question in an assessment.
+**Skill **- A skill defined by a teacher, usually associated with certain answers on assesments.
+**Behavioural Indicator** - Aspects outside of assessments defined by teachers that can be linked to skills.
