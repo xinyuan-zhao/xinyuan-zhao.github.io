@@ -1,7 +1,7 @@
 ---
 title: uLearnify App Development
 summary: 
-  This is a business project for CaresWorth which is designed to provide pet boarding and exercising services. We come up with this business plan based on data analysis and research on the industry.
+  uLearnify is an Online Remedial Literacy Tutorial Program that will allow teachers to create assessments, enter students answers, and track other aspects of their performace such as behavioural indicators. Teachers can then associate test answers and other indicators with skills.
   
   * Data Analysis
 
@@ -18,20 +18,14 @@ image:
   focal_point: Smart
 
 links:
-  - name: Business Plan
-    url: uploads/business_plan_for_caresworth.pdf
+  - name: Project description
+    url: https://ualberta-cmput401.github.io/ulearnify-measurement/
     #   icon: twitter
     # icon_pack: fab
-  - name: Research
-    url: uploads/Business_plan_research.pdf
-
-  - name: PPT
-    url: uploads/ppt_bus.pdf
-
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://cmput401.ca/projects/200d0f09-6fd2-4c61-a7c3-022b8bf45b95'
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -40,32 +34,53 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+* Java   
+* Android Studio    
+* Firebase
 
-    CaresWorth is a private corporation that will operate in the pet grooming
-and boarding industry in Edmonton, Alberta. Over the 5 years to 2024 this industry
-is expected to grow at an annualized rate of 1.3%, increasing its contribution to the
-overall Canadian economy at an annualized rate of 2.8%. Industry revenue is also
-predicted to grow at an annualized rate of 4.2%. These factors present us with an
-opportunity to enter the market and earn from the favorable conditions of the
-industry. However due to the low barriers to entry in the industry, entering this
-industry may be risky as it poses a high threat of competition which may
-jeopardize our survival. Thus in order to compete effectively we aim to be the best
-at providing our consumers with quality services at theirconvenience.
+This is the project for CMPUT 301 F21 Team 08. The habit tracker app can let users to record their habits and help them keep track of these habits. It can prompt the user when to finish a habit and record the completion level of each habit. Users in this app can also add each other as friends. Friends can see the tracked habits of each other and the completion level of these habits as well. More functions are coming up!
 
-    CaresWorth aims to target the working individuals of the urban area
-Windermere, aged between 30 to 49 years. Based on our research we learn that this
-age group is the highest revenue generator of this industry hence targeting this
-audience is profitable for our business especially in the long-term. As there is no
-pet store providing services as ours in this neighbourhood, entering this market
-enables us to fill the market gap and provide these residents with the services they
-highly need. Due to the busy lives of our target audience it is difficult for them to
-take adequate care of their pet child, instead by entering this market we are able to
-solve this problem by providing their pets with quality and effective exercises and
-massages.
+**First Sprint: Oct.18 - Oct.24**
 
-    Operating in this industry requires a large capital investment as ourfacilities
-need to abide by the requirements set by the board of kennel operators. Moreover,
-being a service company our success highly depends on the quality and skills of
-our staff. Thus hiring skilled and experienced employees is important, but this in
-turn raises our costs as high wages need to be paid. Due to these factors our ability
-to generate profits and break-even at an earlier stage isreduced.
+In this sprint, we focus on the structural implementation of the program. We divided the program into three function sections: login (user profile related), habit, and habit event. We only build the UI part for these three sections and realize the interaction between pages in this sprint. Pages related to "following" is not considered in this sprint.
+
+Summary:
+By the end of this sprint, the team did finish most of the required UI pages as planned. Two pages left undone is the main page (to-do list page) and the profile page. We set to finish these pages in the second iteration.
+
+**Second sprint: Oct.25 - Oct.31**
+
+In this sprint, we focus on realizing the actual functions of the three sections of the program within the sections themselves. We do not consider the interaction between functions in this section.
+
+Summary:
+By the end of this sprint, we managed to realize most functions for log-in, habits and habit event as separated parts. We will connect these parts together in the third iteration. All habits and habit events are currently stored locally. Some problems left unsolved in this iteration is:
+
+Enable the user to select multiple dates in a month for a habit to occur is still not possible due to the need of customizing the calendar view.
+We realized that we may not have time to implement the progress bar for each habit in this part. So we decided to complete this requirement after the halfway check-point.
+
+**Third sprint: Nov.1 - Nov.5**
+
+In this sprint, we focus on the interaction between the three functions, and connect them to a whole working project. We would also implement firebase functionalities.
+
+**Fourth Sprint: 11.8 - 11.18**
+
+We focus on finishing all remaining requirements (functionalities) in this sprint, that includes all the updated requirements and functions relating to the following area. We also added additional "Remember me" and "Forgot password" functionalities in this sprint.
+
+Summary:
+
+All team members didn't finish the tasks as planned due to the reading week and other exams. So we decided to continue finishing all these functionalities in the fifth sprint.
+
+**Fifth Sprint: 11.18 - 11.23**
+
+Continue to finish all functionalities, and start writing tests if possible.
+
+Summary:
+
+We managed to cover all functionalities by the end of this sprint. Some functions still needs correction. We also planned the testing strategies for this app and started writing tests.
+
+**Sixth Sprint: 11.24 - 11.29**
+
+This is our final sprint. We focused on writing tests and refining the app, such as improving the UI design, testing the app and solving existing bugs, etc. We also worked on documentations in this sprint.
+
+Summary:
+
+By the end of this sprint, we prepared this app to be ready for final submission.
