@@ -14,7 +14,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Sample pages from app
+  caption: Sample pages from project
   focal_point: Smart
 
 links:
