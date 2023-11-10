@@ -28,6 +28,9 @@ education:
     - course: BSc in Computing Science
       institution: University of Alberta
       year: 2022
+    - course: BSc in Data Science
+      institution: Northeastern University
+      year: 2025
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
