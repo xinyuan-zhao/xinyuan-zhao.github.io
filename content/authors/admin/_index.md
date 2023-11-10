@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Computing Science
-      institution: University of Alberta
-      year: 2022
-    - course: BSc in Data Science
+    - course: MS in Data Science
       institution: Northeastern University
       year: 2025
+    - course: BS in Computing Science
+      institution: University of Alberta
+      year: 2022
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
