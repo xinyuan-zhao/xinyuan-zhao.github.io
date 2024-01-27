@@ -11,7 +11,7 @@ role:
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Northeastern University
-    url: [https://www.ualberta.ca/](https://www.northeastern.edu/)
+    url: https://www.northeastern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed mobile computing and programmable matter.
