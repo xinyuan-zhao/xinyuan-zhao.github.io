@@ -4,7 +4,9 @@ summary:
   This is a business project for CaresWorth which is designed to provide pet boarding and exercising services. We come up with this business plan based on data analysis and research on the industry.
   
   * Data Analysis
+    
   * Strategic Planning
+    
   * Market Analysis
 
 tags:
