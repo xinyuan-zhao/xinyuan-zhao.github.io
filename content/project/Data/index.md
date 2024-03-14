@@ -1,19 +1,20 @@
 ---
-title: uLearnify App Development
+title: SmartCine: Movie Theater Reservation System
 summary: 
-  uLearnify is an Online Remedial Literacy Tutorial Program that will allow teachers to create assessments, enter students answers, and track other aspects of their performace such as behavioural indicators. Teachers can then associate test answers and other indicators with skills.
+  SmartCine is an intuitive movie theater reservation system designed to enhance the movie-going experience for users and streamline administrative tasks for theater operators using MySQL and Python. The system will enable users to search for movies, view detailed show information, reserve tickets, register cards, and receive electronic tickets. Administrators will manage movie data and schedules and access insights like popular movies and monthly revenue statistics.
   
-  * Typescript
-  
-  * React
+  * Database design
+  * Data analysis
+  * MySql
+  * Python
 
 tags:
-  - Web
+  - Database Design
 
-date: '2016-04-27T00:00:00Z'
+date: ''
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/xinyuan-zhao/Movie-Theater-Reservation-System'
 
 image:
   caption: Sample pages from project
@@ -27,7 +28,7 @@ links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://cmput401.ca/projects/200d0f09-6fd2-4c61-a7c3-022b8bf45b95'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -36,25 +37,39 @@ url_video: 'https://cmput401.ca/projects/200d0f09-6fd2-4c61-a7c3-022b8bf45b95'
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-* Typescript
-* React  
+* Database design
+* Data analysis
+* MySql
+* Python
 
 ## Executive Summary
 
-Many learning difficulties are still not well-understood by vast majority of teachers and school boards. This leads to special needs children often recieving a lack of attention and services in traditional schooling systems.
+## About SmartCine
+SmartCine revolutionizes the movie-going experience with its cutting-edge movie theater reservation and management system. Designed with both cinema enthusiasts and theater administrators in mind, SmartCine is the culmination of meticulous research and innovative software engineering by Xiaoyang Fei and Xinyuan Zhao from Northeastern University.
 
-uLearnify is an Online Remedial Literacy Tutorial Program that will allow teachers to create assessments, enter students answers, and track other aspects of their performace such as behavioural indicators. Teachers can then associate test answers and other indicators with skills.
+Utilizing a robust combination of MySQL for database management, Python Flask for seamless back-end operations, and React JavaScript alongside Material-UI for an intuitive front-end user interface, SmartCine stands as a beacon of technological advancement in the entertainment industry.
 
-This tool will allow for properly graphing literacy learning patterns for further research. This will lead to a better understanding of learning difficulties which in turn will help teachers develop a better understanding of how to cater towards special needs children.
+## Features That Set Us Apart
 
-## Project Glossary
+## For Movie Buffs:
 
-**Test** - A set of questions defined by a teacher.
+* Search Functionality: Dive into a vast database of movies, exploring titles, directors, release dates, and more.
+* Detailed Show Insights: Make informed decisions with comprehensive details on showtimes, cast, and seat selection.
+* Streamlined Ticket Reservation: From browsing to booking, enjoy a hassle-free reservation process.
+* Registration and Payment Integration: Sign up for an enriched experience with loyalty points and electronic tickets, simplifying your movie outings.
 
-**Assessments** - An instance of a test containing the answers of a student.
+## For Theater Administrators:
 
-**Answer** - A specific answer of a student for question in an assessment.
+* Efficient Movie and Schedule Management: Update movie listings and schedules with ease, keeping your audience in the loop.
+* Comprehensive User Data Management: Securely handle customer data, ensuring privacy and personalization.
+* Insightful Analytics: Leverage data analytics for better decision-making, identifying trends, and optimizing operations.
 
-**Skill** - A skill defined by a teacher, usually associated with certain answers on assesments.
+## Transforming the Cinema Landscape
+SmartCine is more than a reservation system; it's a comprehensive solution aimed at enhancing every aspect of the movie theater experience. From the initial concept to the final implementation, every step has been carefully crafted to ensure ease of use, efficiency, and a rich, engaging user experience.
 
-**Behavioural Indicator** - Aspects outside of assessments defined by teachers that can be linked to skills.
+Through innovative design and strategic insights, SmartCine addresses the needs of today's movie-goers and theater administrators, setting new standards in the entertainment industry.
+
+## The Road Ahead
+SmartCine is not just a project but a growing ecosystem within the cinema industry. We are committed to continuous improvement, exploring avenues like mobile app development, integration of machine learning for personalized recommendations, real-time data processing, and expanding our feature set to keep pace with the evolving digital landscape.
+
+
