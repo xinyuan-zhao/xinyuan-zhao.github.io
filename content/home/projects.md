@@ -33,6 +33,9 @@ content:
       tag: Business
     - name: Web
       tag: Web
+    - name: Database Design
+      tag: Database Design
+      
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
