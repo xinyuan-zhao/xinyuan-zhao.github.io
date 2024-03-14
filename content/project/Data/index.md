@@ -1,5 +1,5 @@
 ---
-title: SmartCine: Movie Theater Reservation System
+title: SmartCine - Movie Theater Reservation System
 summary: 
   SmartCine is an intuitive movie theater reservation system designed to enhance the movie-going experience for users and streamline administrative tasks for theater operators using MySQL and Python. The system will enable users to search for movies, view detailed show information, reserve tickets, register cards, and receive electronic tickets. Administrators will manage movie data and schedules and access insights like popular movies and monthly revenue statistics.
   
