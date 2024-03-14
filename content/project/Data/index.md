@@ -14,7 +14,7 @@ tags:
 date: ''
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/xinyuan-zhao/Movie-Theater-Reservation-System'
+external_link: ''
 
 image:
   caption: Sample pages from project
@@ -22,7 +22,7 @@ image:
 
 links:
   - name: Project description
-    url: https://ualberta-cmput401.github.io/ulearnify-measurement/
+    url: https://github.com/xinyuan-zhao/Movie-Theater-Reservation-System/
     #   icon: twitter
     # icon_pack: fab
 url_code: ''
