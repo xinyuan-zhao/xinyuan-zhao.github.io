@@ -24,7 +24,7 @@ image:
   focal_point: Smart
 
 links:
-  - name: Project description
+  - name: GitHub
     url: https://github.com/xinyuan-zhao/Movie-Theater-Reservation-System/
     #   icon: twitter
     # icon_pack: fab
