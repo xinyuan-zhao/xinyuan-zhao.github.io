@@ -25,15 +25,15 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: xinyuan7@ualberta.ca
-  phone: 780 885 0699
+  email: xinyuan.zhao.skyla@gmail.com
+  phone: 7816276179
   address:
-    street: 11 Brunel Ct
-    city: Toronto
-    region: ON
-    postcode: 'M5V 3Y3'
-    country: Canada
-    country_code: CA
+    street: 
+    city: 
+    region: 
+    postcode: 
+    country: USA
+    country_code: 
 #  coordinates:
 #    latitude: '37.4275'
 #    longitude: '-122.1697'
@@ -50,7 +50,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com](https://northeastern.zoom.us/j/4417209831'
 
 design:
   columns: '2'
